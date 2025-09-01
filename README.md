@@ -1,6 +1,7 @@
-# OpenCV Gesture Recognition Project
+# UzSignAI
 
-This repository contains code for a gesture recognition system using OpenCV, Mediapipe, and TensorFlow/Keras. The project is designed to recognize hand gestures captured through a webcam.
+**UzSignAI** is a real-time gesture recognition system built with **OpenCV**, **Mediapipe**, and **TensorFlow/Keras**.  
+The project is focused on recognizing hand gestures in Uzbek Sign Language using a webcam.
 
 ## Features
 
@@ -12,8 +13,8 @@ This repository contains code for a gesture recognition system using OpenCV, Med
 ## Installation
 - Clone the Repository
 ```bash
-git clone https://github.com/sarvar-ali/openCV.git
-cd OpenCV
+git clone https://github.com/me-sarvar/uz-sign-ai.git
+cd uz-sign-ai
 ```
 - Install Required Dependencies
 ```bash
